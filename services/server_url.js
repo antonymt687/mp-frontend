@@ -1,0 +1,1 @@
+export const server_url='https://mp-server-hkox.onrender.com'
